@@ -1,0 +1,4 @@
+interface:
+  display_name: "Text Extract"
+  short_description: "Extract IT exam PDFs into an Obsidian question bank."
+  default_prompt: "Use text-extract to process an information technology exam PDF into the Obsidian question bank."

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "q07 flowchart",
+    "source": "_pdf_pages/jinhua_p02.png",
+    "box": [845, 535, 1145, 915],
+    "output": "attachments/202604金华十校_07_图1.png"
+  },
+  {
+    "label": "q09 tree options",
+    "source": "_pdf_pages/jinhua_p02.png",
+    "box": [185, 1020, 1125, 1117],
+    "output": "attachments/202604金华十校_09_图1.png"
+  },
+  {
+    "label": "q13 data chart",
+    "source": "_pdf_pages/jinhua_p04.png",
+    "box": [195, 595, 1165, 880],
+    "output": "attachments/202604金华十校_13_图1.png"
+  },
+  {
+    "label": "q15 order tables",
+    "source": "_pdf_pages/jinhua_p05.png",
+    "box": [215, 1350, 1160, 1618],
+    "output": "attachments/202604金华十校_15_图1.png"
+  }
+]
